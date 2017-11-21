@@ -1,0 +1,85 @@
+	.page-wrapper{
+		width: 980px;
+		margin-left: auto;
+		margin-right: auto;
+		background: #eee;
+		padding: 20px;
+	}
+	.header{
+		background: red;
+		padding: 10px;
+	}
+	.header a{
+		text-decoration: none;
+		font-size: 16px;
+		color:white;
+		font-weight: bold;
+		margin-left: 10px;
+	}
+	.content{
+		padding:10px;
+	}
+	.content-left{
+		width: 980px;
+	}
+	.content-right{
+		float: right;
+		width: 250px;
+		margin-top:-250px; 
+	}
+	.content-right a{
+		text-decoration: none;
+		font-size: 18px;
+		color:black;
+		margin-top: 10px;
+	}
+
+	.content-right a:hover{
+		color: #e27575;		
+	}
+
+	.blog-content{		
+		background: white;
+		margin-top: 20px;
+		padding: 20px;
+		width: 450px;
+	}
+	.title{
+		font-size: 14px;
+		font-weight: bold;
+		color:black;
+	}
+
+	input[type="text"] {
+		padding:7px;
+		margin-top: 10px;
+		width: 450px;
+	}
+	input[type="email"] {
+		padding:7px;
+		margin-top: 10px;
+		width: 450px;
+	}		
+	input[type="button"] {
+		padding:7px;
+		margin-top: 10px;
+		background: blue;
+	}
+	textarea.contact-form{
+		padding:7px; 
+		margin-top: 10px;
+		width: 450px;
+	}
+
+
+	.footer{
+		text-align: center;
+		margin-top:20px; 		
+	}
+
+	.content-box .image img{
+		padding-bottom: 10px;
+	    margin-left: 20px;
+	    width: 345px;
+	    height: 300px;
+	}

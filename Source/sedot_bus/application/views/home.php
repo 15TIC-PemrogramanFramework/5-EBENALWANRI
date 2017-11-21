@@ -1,0 +1,1 @@
+Hi, Welcome to <?php echo $konfigurasi['nama_website']; ?>.
